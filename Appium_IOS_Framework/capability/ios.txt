@@ -1,0 +1,5 @@
+automationName=XCUITest");
+devicesName=iphone 8 plus (11.3)
+udid=5ECD2F70-2A82-479F-99BC-3EB0CCE0851A
+app=//Users/mohammedalam/Documents/UICatalog.app
+platformName=iOS
